@@ -1,5 +1,4 @@
-This is my first task in @virtunexa .....
-thanks for given this opportunity 
+
 Description:
 Goal: Design a front-end interface for a chat application with real-time message updates, user avatars, and chat bubbles.
       Structure:
@@ -19,4 +18,7 @@ Checklist:
 2. Add CSS for styling and responsiveness.  
 3. Implement JavaScript for interactivity.  
 4. Test the webpage on different screen sizes.  
-5. Submit the completed task for review. 
+5. Submit the completed task for review.
+
+   This is my first task in @virtunexa .....
+thanks for given this opportunity 
