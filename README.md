@@ -19,4 +19,4 @@ Goal: Design a front-end interface for a chat application with real-time message
 
 
    This is my first task @virtunexa .....
-thanks for given this opportunity 
+Thanks for given this opportunity 
